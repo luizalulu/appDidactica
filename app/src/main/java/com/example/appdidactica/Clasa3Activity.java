@@ -12,7 +12,6 @@ public class Clasa3Activity extends AppCompatActivity {
     Button btnClasa3LBR;
     Button btnClasa3MATE;
     Button btnClasa3ENG;
-
     Button btnClasa3MM;
     Button btnClasa3SOC;
 

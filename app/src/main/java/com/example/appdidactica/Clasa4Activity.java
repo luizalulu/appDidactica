@@ -12,7 +12,6 @@ public class Clasa4Activity extends AppCompatActivity {
     Button btnClasa4LBR;
     Button btnClasa4MATE;
     Button btnClasa4ENG;
-
     Button btnClasa4MM;
     Button btnClasa4SOC;
     Button btnClasa4GEO;

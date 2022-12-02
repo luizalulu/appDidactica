@@ -12,7 +12,6 @@ public class Clasa0Activity extends AppCompatActivity {
     Button btnClasa0CLR;
     Button btnClasa0MEM;
     Button btnClasa0ENG;
-    Button btnClasa0RELIGIE;
     Button btnClasa0MM;
     Button btnClasa0DP;
 

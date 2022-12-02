@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecondActivity">
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sunt_în"
+        android:textSize="20sp"
+        android:textAlignment="center" />
+
+    <Button
+        android:id="@+id/btnClasa0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cls0"
+        android:textAlignment="center"
+        android:onClick="ApasaPeClasa0"/>
+
+    <Button
+        android:id="@+id/btnClasa1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cls1"
+        android:textAlignment="center"
+        android:onClick="ApasaPeClasa1"/>
+
+    <Button
+        android:id="@+id/btnClasa2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cls2"
+        android:textAlignment="center"
+        android:onClick="ApasaPeClasa2"
+        />
+
+    <Button
+        android:id="@+id/btnClasa3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cls3"
+        android:textAlignment="center"
+        android:onClick="ApasaPeClasa3"
+        />
+
+    <Button
+        android:id="@+id/btnClasa4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cls4"
+        android:textAlignment="center"
+        android:onClick="ApasaPeClasa4"/>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/inapoi" />
+
+</TableLayout>

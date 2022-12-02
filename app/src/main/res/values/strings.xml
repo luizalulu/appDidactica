@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">appDidactica</string>
+    <string name="alege">ACUM HAI SĂ ALEGEM O MATERIE</string>
+    <string name="clr">COMUNICARE ÎN LIMBA ROMÂNĂ</string>
+    <string name="mem">MATEMATICĂ ȘI EXPLORAREA MEDIULUI</string>
+    <string name="eng">LIMBA ENGLEZĂ</string>
+    <string name="mm">MUZICĂ ȘI MIȘCARE</string>
+    <string name="dp">DEZVOLTARE PERSONALĂ</string>
+    <string name="edsoc">EDUCATIE SOCIALA</string>
+    <string name="ist">ISTORIE</string>
+    <string name="geo">GEOGRAFIE</string>
+    <string name="inapoi">ÎNAPOI</string>
+    <string name="lbr">LIMBA ȘI LITERATURA ROMÂNĂ</string>
+    <string name="mate">MATEMATICĂ</string>
+    <string name="cls0">CLASA PREGĂTITOARE</string>
+    <string name="cls1">CLASA I</string>
+    <string name="cls2">CLASA II</string>
+    <string name="cls3">CLASA III</string>
+    <string name="cls4">CLASA IV</string>
+    <string name="sunt_în">SUNT ÎN…</string>
+
+
+</resources>

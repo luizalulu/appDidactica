@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Clasa3Activity">
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/alege"
+        android:textSize="20sp"
+        android:textAlignment="center" />
+
+    <Button
+        android:id="@+id/btnClasa3LBR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lbr"
+        android:textAlignment="center"/>
+
+    <Button
+        android:id="@+id/btnClasa3MATE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/mate"
+        android:textAlignment="center"/>
+
+    <Button
+        android:id="@+id/btnClasa3ENGLEZĂ"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/eng"
+        android:textAlignment="center"/>
+
+
+    <Button
+        android:id="@+id/btnClasa3MM"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/mm"
+        android:textAlignment="center"/>
+
+    <Button
+        android:id="@+id/btnClasa3SOC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/edsoc"
+        android:textAlignment="center"/>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/inapoi" />
+
+</TableLayout>
